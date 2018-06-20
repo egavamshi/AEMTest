@@ -1,0 +1,6 @@
+com\aem\test\AEMTest\core\listeners\SimpleResourceListener.class
+com\aem\test\AEMTest\core\schedulers\SimpleScheduledTask.class
+com\aem\test\AEMTest\core\package-info.class
+com\aem\test\AEMTest\core\servlets\SimpleServlet.class
+com\aem\test\AEMTest\core\filters\LoggingFilter.class
+com\aem\test\AEMTest\core\models\HelloWorldModel.class
